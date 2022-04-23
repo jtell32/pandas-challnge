@@ -11,3 +11,5 @@ Calculated and displayed the purchase analysis by gender break down
 Calculated and displayed the unique number of players by age groups and showed the percentage of range
 
 Calculated and displayed the purchase analysis by age break down
+
+Calculated and displayed the top spenders analysis

@@ -13,3 +13,5 @@ Calculated and displayed the unique number of players by age groups and showed t
 Calculated and displayed the purchase analysis by age break down
 
 Calculated and displayed the top spenders analysis
+
+Calculated and displayed the most popular items

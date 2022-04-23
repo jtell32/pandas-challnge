@@ -15,3 +15,5 @@ Calculated and displayed the purchase analysis by age break down
 Calculated and displayed the top spenders analysis
 
 Calculated and displayed the most popular items
+
+Calculated and displayed the most profitable items
